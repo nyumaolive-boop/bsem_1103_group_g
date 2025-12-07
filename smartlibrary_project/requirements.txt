@@ -1,0 +1,2 @@
+psycopg2-binary>=2.9.6  # PostgreSQL database driver used for connecting to postgres
+PyQt5>=5.15.7           # GUI framework used for building the smartlibrary interface
